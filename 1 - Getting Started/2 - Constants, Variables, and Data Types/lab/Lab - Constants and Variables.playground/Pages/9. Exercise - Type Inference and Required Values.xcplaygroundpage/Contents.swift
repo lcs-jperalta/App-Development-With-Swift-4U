@@ -22,7 +22,7 @@ var distanceTraveled: Double = 0;
 /*:
  Now assign a value of 54.3 to `distanceTraveled`. Does the code compile? Go back and set an explicit type on `distanceTraveled` so the code will compile.
  */
-var distanceTraveled = 54.3;
+distanceTraveled = 54.3;
 
 
 
